@@ -1,0 +1,8 @@
+https://github.com/horsicq/Detect-It-Easy.git 
+https://github.com/dnSpy/dnSpy.git
+
+https://github.com/x64dbg/ScyllaHide.git
+
+https://github.com/Hendi48/Magicmida.git
+
+https://github.com/x64dbg/x64dbg.git
