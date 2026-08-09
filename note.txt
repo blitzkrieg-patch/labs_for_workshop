@@ -7,3 +7,4 @@ https://github.com/Hendi48/Magicmida.git
 
 https://github.com/x64dbg/x64dbg.git
 https://github.com/NtQuery/Scylla.git
+https://github.com/x64dbg/x64dbg.git
